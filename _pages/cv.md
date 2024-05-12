@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-View CV
+View CV here.
 
 <!---
 {% include base_path %}
