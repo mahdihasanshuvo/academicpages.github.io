@@ -10,15 +10,18 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
-
   - title: "Teaching"
     url: /teaching/    
 
   - title: "Code"
     url: /code/    
-        
+
+   - title: "Resources"
+    url: /resources/    
+    
+#  - title: "Talks"
+#    url: /talks/    
+    
 # - title: "Blog Posts"
 #   url: /year-archive/
     
