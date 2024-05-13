@@ -9,8 +9,6 @@ author_profile: true
 
 ---
 Experiences as a Teaching Assistant
-######
-
 - Applied Thermodynamics ( Department of Mechanical Engineering, NCAT)
 - Propulsion ( Department of Mechanical Engineering, NCAT)
 - Vector and Linear Algebra, Calculus 1, 2, 3 ( Department of Mathematics, NCAT)
