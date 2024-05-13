@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching experiences as Teaching Assistant"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+- Applied Thermodynamics ( Department of Mechanical Engineering, NCAT)
+- Propulsion ( Department of Mechanical Engineering, NCAT)
+- Vector and Linear Algebra, Calculus 1, 2, 3 ( Department of Mathematics, NCAT)
+- MEA 315: Math Methods for Atmospheric Science (Department of Marine Earth and Atmospheric Science, NCSU)
+- MEA 421: Atmospheric Dynamics 1 (Department of Marine Earth and Atmospheric Science, NCSU)
+- MEA 100: Earth System Science: Exploring the Connections (Department of Marine Earth and Atmospheric Science, NCSU)
+- MEA 130: Introduction to Weather and Climate (Department of Marine Earth and Atmospheric Science, NCSU)
