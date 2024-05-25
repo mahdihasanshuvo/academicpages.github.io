@@ -13,3 +13,11 @@ Education
 - P.hD., Atmospheric Science, North Carolina State University, Raleigh, NC, USA
 - MSc, Mechanical Engineering, North Carolina A&T State University, Greensboro, NC, USA
 - BSc, Mechanical Engineering, Chittagong University of Engineering & Technology, Chittagong, Bangladesh
+
+News
+------
+
+### March, 2024
+Passed Preliminary Exam. Now, officially a P.hD. Candidate!
+### June, 2024 
+Will be presenting research at the CESM Workshop in National Center for Atmospheric Research (NCAR), Boulder, CO.
