@@ -14,7 +14,27 @@ Education
 - MSc, Mechanical Engineering, North Carolina A&T State University, Greensboro, NC, USA
 - BSc, Mechanical Engineering, Chittagong University of Engineering & Technology, Chittagong, Bangladesh
 
+#News
+#------
+#- March, 2024: Passed Preliminary Exam. Now, officially a P.hD. Candidate!
+#- June, 2024: Will be presenting research at the CESM Workshop in National Center for Atmospheric Research (NCAR), Boulder, CO.
+
+<style>
+  .news-container {
+    height: 150px;
+    overflow-y: scroll;
+    border: 1px solid #ccc;
+    padding: 10px;
+    background-color: #f9f9f9;
+  }
+  .news-item {
+    margin-bottom: 10px;
+  }
+</style>
+
 News
-------
-- March, 2024: Passed Preliminary Exam. Now, officially a P.hD. Candidate!
-- June, 2024: Will be presenting research at the CESM Workshop in National Center for Atmospheric Research (NCAR), Boulder, CO.
+====
+<div class="news-container">
+  <div class="news-item">March, 2024: Passed Preliminary Exam. Now, officially a P.hD. Candidate!</div>
+  <div class="news-item">June, 2024: Will be presenting research at the CESM Workshop in National Center for Atmospheric Research (NCAR), Boulder, CO.</div>
+</div>
