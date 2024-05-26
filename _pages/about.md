@@ -16,8 +16,6 @@ Education
 
 #News
 #------
-#- March, 2024: Passed Preliminary Exam. Now, officially a P.hD. Candidate!
-#- June, 2024: Will be presenting research at the CESM Workshop in National Center for Atmospheric Research (NCAR), Boulder, CO.
 
 <style>
   .news-container {
@@ -30,21 +28,25 @@ Education
   .news-item {
     margin-bottom: 10px;
   }
+  .news-date {
+    font-weight: bold;
+    color: #333;
+  }
+  .news-content {
+    margin-left: 10px;
+    color: #555;
+  }
 </style>
 
 News
 ====
 <div class="news-container">
-  <div class="news-item">March, 2024: Passed Preliminary Exam. Now, officially a P.hD. Candidate!</div>
-  <div class="news-item">June, 2024: Will be presenting research at the CESM Workshop in National Center for Atmospheric Research (NCAR), Boulder, CO.</div>
-  <div class="news-item">March, 2024: Passed Preliminary Exam. Now, officially a P.hD. Candidate!</div>
-  <div class="news-item">June, 2024: Will be presenting research at the CESM Workshop in National Center for Atmospheric Research (NCAR), Boulder, CO.</div>
-  <div class="news-item">March, 2024: Passed Preliminary Exam. Now, officially a P.hD. Candidate!</div>
-  <div class="news-item">June, 2024: Will be presenting research at the CESM Workshop in National Center for Atmospheric Research (NCAR), Boulder, CO.</div>
-  <div class="news-item">March, 2024: Passed Preliminary Exam. Now, officially a P.hD. Candidate!</div>
-  <div class="news-item">June, 2024: Will be presenting research at the CESM Workshop in National Center for Atmospheric Research (NCAR), Boulder, CO.</div>
-  <div class="news-item">March, 2024: Passed Preliminary Exam. Now, officially a P.hD. Candidate!</div>
-  <div class="news-item">June, 2024: Will be presenting research at the CESM Workshop in National Center for Atmospheric Research (NCAR), Boulder, CO.</div>
-  <div class="news-item">March, 2024: Passed Preliminary Exam. Now, officially a P.hD. Candidate!</div>
-  <div class="news-item">June, 2024: Will be presenting research at the CESM Workshop in National Center for Atmospheric Research (NCAR), Boulder, CO.</div>
+  <div class="news-item">
+    <span class="news-date">March, 2024:</span>
+    <span class="news-content">Passed Preliminary Exam. Now, officially a P.hD. Candidate!</span>
+  </div>
+  <div class="news-item">
+    <span class="news-date">June, 2024:</span>
+    <span class="news-content">Will be presenting research at the CESM Workshop in National Center for Atmospheric Research (NCAR), Boulder, CO.</span>
+  </div>
 </div>
