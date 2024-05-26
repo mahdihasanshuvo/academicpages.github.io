@@ -14,29 +14,7 @@ Education
 - MSc, Mechanical Engineering, North Carolina A&T State University, Greensboro, NC, USA
 - BSc, Mechanical Engineering, Chittagong University of Engineering & Technology, Chittagong, Bangladesh
 
-#News
-#------
-
-<style>
-  .news-container {
-    height: 150px;
-    overflow-y: scroll;
-    border: 1px solid #ccc;
-    padding: 10px;
-    background-color: #f9f9f9;
-  }
-  .news-item {
-    margin-bottom: 10px;
-  }
-  .news-date {
-    font-weight: bold;
-    color: #333;
-  }
-  .news-content {
-    margin-left: 10px;
-    color: #555;
-  }
-</style>
+<!-- News feed below. Need regular updates -->
 
 News
 ====
