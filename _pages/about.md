@@ -40,12 +40,11 @@ Education
 News
 ====
 <div class="news-container">
+    <div class="news-item">
+    <span class="news-date">June, 2024:</span>
+    <span class="news-content">Presented research at the CESM Annual Workshop in National Center for Atmospheric Research (NCAR), Boulder, CO.</span>
+  </div>
   <div class="news-item">
     <span class="news-date">March, 2024:</span>
     <span class="news-content">Passed Preliminary Exam. Now, officially a P.hD. Candidate!</span>
-  </div>
-  <div class="news-item">
-    <span class="news-date">June, 2024:</span>
-    <span class="news-content">Will be presenting research at the CESM Workshop in National Center for Atmospheric Research (NCAR), Boulder, CO.</span>
-  </div>
 </div>
